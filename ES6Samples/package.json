@@ -2,7 +2,7 @@
   "name": "es6-demos",
   "version": "1.0.0",
   "description": "Used for JavaScript ES6 Demos",
-  "author": "Dan Wahlin",
+  "author": "PhoenixJet",
   "scripts": {
     "start": "lite-server"
   },
